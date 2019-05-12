@@ -5,6 +5,6 @@ authors = ["Jack Gerrits <jackgerrits95@gmail.com>"]
 edition = "2018"
 repository = "https://github.com/jackgerrits/merand48-rs"
 description = "Quick random number generator used in VowpalWabbit"
-license = "mit"
+license = "BSD-3-Clause"
 
 [dependencies]
